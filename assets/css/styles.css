@@ -208,6 +208,7 @@ img {
 .login__button-ghost {
   background: hsla(244, 16%, 92%, .6);
   border: 2px solid var(--first-color);
+  color: var(--first-color);
   box-shadow: none;
 }
 
